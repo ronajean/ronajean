@@ -10,34 +10,68 @@ I work across both **frontend and backend development**, with experience in APIs
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- JavaScript
-- React.js
-- JSX
-- Tailwind CSS
-- Zustand
+<table border="0"> <tr> <td valign="top" width="33%" style="border: none;">
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- PHP
 
-### Databases
-- MySQL
-- SQL Server
-- MongoDB
+### 🎨 Frontend
 
-### Tools & Technologies
-- Git & GitHub
-- Visual Studio
-- VS Code
-- Postman
-- Jenkins
-- AppSheet
-- SSRS
-- Telerik Reporting
-- Crystal Reports
+* JavaScript
+* React.js
+* JSX
+* Tailwind CSS
+
+### 🗄️ Databases
+
+* MySQL
+* SQL Server
+* MongoDB
+
+</td>
+
+<td valign="top" width="33%" style="border: none;">
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* PHP
+
+### 🔧 Tools & Technologies
+
+* Git & GitHub
+* Visual Studio
+* VS Code
+* Postman
+* Jenkins
+* AppSheet
+* SSRS
+* Telerik Reporting
+* Crystal Reports
+
+</td>
+
+<td valign="top" width="33%" style="border: none;">
+
+### 🎯 Other Skills
+
+* Database Design & Querying
+* Stored Procedures
+* Report Development
+* API Integration
+* Problem Solving
+* Continuous Learning
+
+### 📚 Currently Learning
+
+* Next.js
+* TypeScript
+* Docker
+* CI/CD
+
+</td>
+</tr>
+</table>
 
 ---
 
