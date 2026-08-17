@@ -36,6 +36,7 @@ I work across both **frontend and backend development**, with experience in APIs
 * Express.js
 * REST APIs
 * PHP
+* Python
 
 ### 🔧 Tools & Technologies
 
